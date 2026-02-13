@@ -31,7 +31,7 @@ RECOGNITION_THRESHOLD = 0.38
 
 # Performance Settings
 MAX_FACES_TO_PROCESS = 5
-DETECTION_INTERVAL = 3  # Run full detection every N frames (reduced for better tracking)
+DETECTION_INTERVAL = 3  # Run full detection every N frames
 
 # Robot Control Settings
 TARGET_CENTER_TOLERANCE = 80
